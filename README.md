@@ -1,9 +1,14 @@
-# api documentation for  [react-native-css (v2.0.4)](https://github.com/sabeurthabti/react-native-css)  [![npm package](https://img.shields.io/npm/v/npmdoc-react-native-css.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-react-native-css) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-react-native-css.svg)](https://travis-ci.org/npmdoc/node-npmdoc-react-native-css)
+# npmdoc-react-native-css
+
+#### api documentation for  [react-native-css (v2.0.4)](https://github.com/sabeurthabti/react-native-css)  [![npm package](https://img.shields.io/npm/v/npmdoc-react-native-css.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-react-native-css) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-react-native-css.svg)](https://travis-ci.org/npmdoc/node-npmdoc-react-native-css)
+
 #### Style React-Native components with css
 
-[![NPM](https://nodei.co/npm/react-native-css.png?downloads=true)](https://www.npmjs.com/package/react-native-css)
+[![NPM](https://nodei.co/npm/react-native-css.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/react-native-css)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-react-native-css/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-react-native-css_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-react-native-css/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-react-native-css/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-react-native-css/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-react-native-css/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-react-native-css/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-react-native-css/build/screenCapture.npmPackageListing.svg)
 
@@ -64,8 +69,7 @@
     "main": "build/index.js",
     "maintainers": [
         {
-            "name": "sabeurthabti",
-            "email": "thabti.sabeur@gmail.com"
+            "name": "sabeurthabti"
         }
     ],
     "name": "react-native-css",
@@ -73,7 +77,6 @@
     "precommit": [
         "test"
     ],
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/sabeurthabti/react-native-css.git"
@@ -89,16 +92,6 @@
     "version": "2.0.4"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module react-native-css](#apidoc.module.react-native-css)
-
-
-
-# <a name="apidoc.module.react-native-css"></a>[module react-native-css](#apidoc.module.react-native-css)
 
 
 
